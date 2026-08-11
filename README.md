@@ -1,5 +1,17 @@
 # White Sox Pitcher Command & Deception
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+
+![XGBoost](https://img.shields.io/badge/XGBoost-006400?style=flat-square)
+
 ## Repository Contents
 
 **Note:** This project was completed in collaboration with the Chicago White Sox using proprietary data. Because the datasets and source code are confidential, they cannot be shared publicly. This repository documents the project through its methodology, results, and final presentation.
