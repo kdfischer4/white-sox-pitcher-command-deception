@@ -14,16 +14,18 @@
 
 ## Repository Contents
 
-**Note:** This project was completed in collaboration with the Chicago White Sox using proprietary data. Because the datasets and source code are confidential, they cannot be shared publicly. This repository documents the project through its methodology, results, and final presentation.
+> **Note:** This project was completed in collaboration with the Chicago White Sox using proprietary data. Because the datasets and source code are confidential, they cannot be shared publicly. This repository provides an overview of the project's methodology, results, and my contributions.
 
 This repository includes:
 
--  Final project presentation
--  Project methodology and modeling approach
--  Key findings and performance metrics
--  My individual contributions
+- Final project presentation
+- Methodology and modeling approach
+- Key findings and performance metrics
+- My individual contributions
 
-**Final Presentation:** [White Sox Capstone Presentation](Final%20Presentation.pdf)
+## Final Presentation
+
+➡️ **[View the White Sox Capstone Presentation (PDF)](Final%20Presentation.pdf)**
 
 ---
 
