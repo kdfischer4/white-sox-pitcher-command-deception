@@ -11,7 +11,7 @@ This repository includes:
 -  Key findings and performance metrics
 -  My individual contributions
 
-**Final Presentation:** [White Sox Capstone Presentation](presentation/White_Sox_Final_Presentation.pdf)
+**Final Presentation:** [White Sox Capstone Presentation](White_Sox_Final_Presentation.pdf)
 
 ---
 
